@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Chapter 1: Introduction to AI",
+    "embedding": [0.1, 0.2, 0.3, 0.4]
+  },
+  {
+    "text": "Chapter 2: Basics of Machine Learning",
+    "embedding": [0.5, 0.6, 0.7, 0.8]
+  }
+]
